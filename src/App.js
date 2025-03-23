@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import Proyectos from './pages/Proyectos';
 import SobreMi from './pages/SobreMi';
+import ProjectDetails from './pages/ProyectDetails';
 import Contacto from './pages/Contacto';
 import './App.css';
 
@@ -17,6 +18,7 @@ function App() {
         <Route path="/proyectos" element={<Proyectos />} />
         <Route path="/sobre-mi" element={<SobreMi />} />
         <Route path="/contacto" element={<Contacto />} />
+        <Route path="/proyecto/:id" element={<ProjectDetails />} />
       </Routes>
     </div>
   );
