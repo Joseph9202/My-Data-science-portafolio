@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/My-Data-science-portafolio/static/css/main.4453ec7a.css",
-    "main.js": "/My-Data-science-portafolio/static/js/main.c9d9cb2a.js",
+    "main.js": "/My-Data-science-portafolio/static/js/main.ef6e5346.js",
     "index.html": "/My-Data-science-portafolio/index.html",
     "main.4453ec7a.css.map": "/My-Data-science-portafolio/static/css/main.4453ec7a.css.map",
-    "main.c9d9cb2a.js.map": "/My-Data-science-portafolio/static/js/main.c9d9cb2a.js.map"
+    "main.ef6e5346.js.map": "/My-Data-science-portafolio/static/js/main.ef6e5346.js.map"
   },
   "entrypoints": [
     "static/css/main.4453ec7a.css",
-    "static/js/main.c9d9cb2a.js"
+    "static/js/main.ef6e5346.js"
   ]
 }
