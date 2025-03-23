@@ -53,6 +53,16 @@ function Proyectos() {
       link: 'https://github.com/tuusuario/customer-segmentation',
       fecha: '2024-04-18'
     },
+    {
+      id: 5¿y,
+      titulo: 'Youtube API',
+      descripcion: 'Algoritmo de clustering para identificar segmentos de clientes basados en patrones de compra y comportamiento.',
+      categoria: 'Análisis y visualización de datos',
+      tecnologias: ['Python', 'api', 'dashboard', 'rawdata'],
+      imagen: '/images/customer-segments.jpg',
+      link: 'https://github.com/tuusuario/customer-segmentation',
+      fecha: '2024-04-18'
+    },
     // Agrega más proyectos según sea necesario
   ];
 
