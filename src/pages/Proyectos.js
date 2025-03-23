@@ -56,7 +56,7 @@ function Proyectos() {
     {
       id: 5¿y,
       titulo: 'Youtube API',
-      descripcion: 'Algoritmo de clustering para identificar segmentos de clientes basados en patrones de compra y comportamiento.',
+      descripcion: 'This project was born from a curiosity to understand what drives the success of YouTube videos within the data science niche. Using the YouTube Data API, I collected data from popular channels and conducted an exploratory analysis to examine common assumptions: Do likes and comments affect view counts? Does video length or title length matter? I also applied natural language processing techniques to identify trending topics and publishing patterns. The goal was to uncover insights useful for both myself and other aspiring content creators in the field.',
       categoria: 'Análisis y visualización de datos',
       tecnologias: ['Python', 'api', 'dashboard', 'rawdata'],
       imagen: '/images/customer-segments.jpg',
