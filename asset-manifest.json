@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/commit/static/css/main.4453ec7a.css",
-    "main.js": "/commit/static/js/main.8c6c2c93.js",
-    "index.html": "/commit/index.html",
-    "main.4453ec7a.css.map": "/commit/static/css/main.4453ec7a.css.map",
-    "main.8c6c2c93.js.map": "/commit/static/js/main.8c6c2c93.js.map"
+    "main.css": "/My-Data-science-portafolio/static/css/main.4453ec7a.css",
+    "main.js": "/My-Data-science-portafolio/static/js/main.7e61d59f.js",
+    "index.html": "/My-Data-science-portafolio/index.html",
+    "main.4453ec7a.css.map": "/My-Data-science-portafolio/static/css/main.4453ec7a.css.map",
+    "main.7e61d59f.js.map": "/My-Data-science-portafolio/static/js/main.7e61d59f.js.map"
   },
   "entrypoints": [
     "static/css/main.4453ec7a.css",
-    "static/js/main.8c6c2c93.js"
+    "static/js/main.7e61d59f.js"
   ]
 }
